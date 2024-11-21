@@ -87,7 +87,7 @@ const Users = () => {
                   setEditUser(user);
                   setModalType("edit");
                 }}
-                className="bg-green-500 text-white py-1 px-3 rounded hover:bg-slate-500 transition duration-300"
+                className="bg-slate-500 text-white py-1 px-3 rounded hover:bg-green-500 transition duration-300"
               >
                 <FaRegEdit/>
               </button>
